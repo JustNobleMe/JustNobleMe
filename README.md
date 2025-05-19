@@ -9,8 +9,8 @@ I am a fullstack developer with a passion for crafting engaging and usercentric 
 * 🖥️  See my portfolio at ...
 * ✉️  You can contact me at [isaacodey01@gmai.com](mailto:isaacodey01@gmail.com )
 * 🚀  I'm currently creating Amazing Solutions at LARVA ACADEMY
-* 🧠  Currently learning TYPESCRIPT
-* ⚡  Proficient in HTML, CSS, JAVASCRIPT, REACT, NEXT JS, TAILWIND CSS, STYLED-COMPONENTS.
+* 🧠  Currently learning ...
+* ⚡  Proficient in HTML, CSS, JAVASCRIPT, REACT, NEXT JS, TYPESCRIPT, TAILWIND CSS, STYLED-COMPONENTS.
 
 <a href="https://www.twitter.com/famous_isaaco" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/famous_isaaco?logo=twitter&style=for-the-badge&color=ef4444&labelColor=713f12"
